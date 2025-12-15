@@ -60,3 +60,4 @@ events.out.tfevents*
 # Data (comment out if you want to track data)
 data/
 datasets/
+aclImdb_v1/
