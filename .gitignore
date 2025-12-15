@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+.python-version
+
+# Package / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+.wheels/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking / linters
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Logs
+logs/
+*.log
+
+# Caches
+.cache/
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorFlow / model artifacts
+checkpoints/
+saved_models/
+*.h5
+*.hdf5
+*.pb
+*.tflite
+
+# TensorBoard
+logs/tensorboard/
+events.out.tfevents*
+
+# Data (comment out if you want to track data)
+data/
+datasets/
